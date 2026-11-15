@@ -5,6 +5,8 @@
 
 **Founded 2022 · Publicly launched 2025–2026**
 
+<img src="ceo.jpg.jpeg" alt="Musfiqur Rahim, Founder and CEO of Black Shadow Team" width="220" style="border-radius: 50%;" />
+
 <p>
   <a href="https://black-shadow-team.vercel.app/">
     <img src="https://img.shields.io/badge/Website-Black%20Shadow%20Team-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
