@@ -1,11 +1,13 @@
 <div align="center">
 
+<img src="team.jpg" alt="Black Shadow Team logo" width="120" />
+
 # MUSFIQUR RAHIM
 ### Founder & CEO of Black Shadow Team
 
 **Founded 2022 · Publicly launched 2025–2026**
 
-<img src="ceo.jpg.jpeg" alt="Musfiqur Rahim, Founder and CEO of Black Shadow Team" width="220" style="border-radius: 50%;" />
+<img src="ceo.jpg" alt="Musfiqur Rahim, Founder and CEO of Black Shadow Team" width="220" />
 
 <p>
   <a href="https://black-shadow-team.vercel.app/">
